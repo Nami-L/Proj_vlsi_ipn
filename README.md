@@ -5,12 +5,12 @@ Fecha límite: Domingo 3 de agosto de 2025
 ### Caracteristicas
 Especificaciones del módulo:
 
-Área máxima: 150 × 150 µm
-Máximo 10 entradas, 10 salidas
-1 señal de reloj
-Verilog 2005
-Sin bucles (for, generate, etc.)
-Tecnología de fabricación: PDK de Sky130
+- Área máxima: 150 × 150 µm
+- Máximo 10 entradas, 10 salidas
+- 1 señal de reloj
+- Verilog 2005
+- Sin bucles (for, generate, etc.)
+- Tecnología de fabricación: PDK de Sky130
 - Estimación: ~500 compuertas lógicas máximo
 
 #### Descripción del modulo:
