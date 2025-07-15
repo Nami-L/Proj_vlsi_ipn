@@ -1,7 +1,8 @@
 # Proj_vlsi_ipn--Convocatoria Silicluster 2025
-- __Autor__: Luis Enrique Namigtle Jímenez
-- __Correo__ :enrique.namigtle@inaoe.edu.mx
-- __Diseño__ de un RTL para fabricación
+
+- **Autor**: Luis Enrique Namigtle Jiménez  
+- **Correo**: enrique.namigtle@inaoe.edu.mx  
+
 
 Fecha límite: Domingo 3 de agosto de 2025
 ### Caracteristicas
