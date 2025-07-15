@@ -1,5 +1,6 @@
 # Proj_vlsi_ipn--Convocatoria Silicluster 2025
 Diseño de un RTL para fabricación
+
 Fecha límite: Domingo 3 de agosto de 2025
 ### Caracteristicas
 Especificaciones del módulo:
