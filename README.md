@@ -17,7 +17,7 @@ Tecnología de fabricación: PDK de Sky130
 
 El módulo contador_gray_detector implementa un contador ascendente de 4 bits en código Gray, y detecta una transición específica entre dos valores consecutivos del contador. 
 
-###$ Funcionamiento detallado
+#### Funcionamiento detallado
 
 - **Contador en código Gray:**
   - El módulo mantiene un contador binario interno de 4 bits.
