@@ -1,0 +1,59 @@
+Command: vcs -full64 -sverilog -lca -debug_access+all -kdb -timescale=1ns/10ps /home/enrique.namigtle/Proyectos_UVM/Proj_vlsi_ipn/hw/tb/tb_contador_gray_detector.v \
+/home/enrique.namigtle/Proyectos_UVM/Proj_vlsi_ipn/hw/rtl/contador_gray_detector.v \
+-l comp.log -top tb_contador_gray_detector -j8
+                         Chronologic VCS (TM)
+      Version U-2023.03-SP2-9_Full64 -- Tue Jul 15 14:20:17 2025
+
+                    Copyright (c) 1991 - 2024 Synopsys, Inc.
+   This software and the associated documentation are proprietary to Synopsys,
+ Inc. This software may only be used in accordance with the terms and conditions
+ of a written license agreement with Synopsys, Inc. All other use, reproduction,
+   or distribution of this software is strictly prohibited.  Licensed Products
+     communicate with Synopsys servers for the purpose of providing software
+    updates, detecting software piracy and verifying that customers are using
+    Licensed Products in conformity with the applicable License Key for such
+  Licensed Products. Synopsys will use information gathered in connection with
+    this process to deliver software updates and pursue software pirates and
+                                   infringers.
+
+ Inclusivity & Diversity - Visit SolvNetPlus to read the "Synopsys Statement on
+            Inclusivity and Diversity" (Refer to article 000036315 at
+                        https://solvnetplus.synopsys.com)
+
+
+Warning-[LCA_FEATURES_ENABLED] Usage warning
+  LCA features enabled by '-lca' argument on the command line.  For more 
+  information regarding list of LCA features please refer to Chapter "LCA 
+  features" in the VCS Release Notes
+
+Parsing design file '/home/enrique.namigtle/Proyectos_UVM/Proj_vlsi_ipn/hw/tb/tb_contador_gray_detector.v'
+Parsing design file '/home/enrique.namigtle/Proyectos_UVM/Proj_vlsi_ipn/hw/rtl/contador_gray_detector.v'
+Top Level Modules:
+       tb_contador_gray_detector
+TimeScale is 1 ns / 1 ps
+Starting vcs inline pass...
+
+
+Note-[VCS_PARAL] Parallel code-gen enabled
+  VCS is running with parallel code generation(-j)...
+
+1 module and 0 UDP read.
+recompiling module tb_contador_gray_detector
+make[1]: Entering directory '/home/enrique.namigtle/Proyectos_UVM/Proj_vlsi_ipn/work/sim/csrc' \
+
+rm -f _cuarc*.so _csrc*.so pre_vcsobj_*.so share_vcsobj_*.so
+if [ -x ../simv ]; then chmod a-x ../simv; fi
+g++  -o ../simv      -rdynamic  -Wl,-rpath='$ORIGIN'/simv.daidir -Wl,-rpath=./simv.daidir \
+-Wl,-rpath=/home/EDA/CDS/SYNOPSYS/vcs/U-2023.03-SP2-9/linux64/lib -L/home/EDA/CDS/SYNOPSYS/vcs/U-2023.03-SP2-9/linux64/lib \
+-Wl,-rpath-link=./  /usr/lib64/libnuma.so.1   objs/amcQw_d.o   _789411_archive_1.so \
+_prev_archive_1.so   SIM_l.o      rmapats_mop.o rmapats.o rmar.o rmar_nd.o  rmar_llvm_0_1.o \
+rmar_llvm_0_0.o            -lvirsim -lerrorinf -lsnpsmalloc -lvfs    -lvcsnew -lsimprofile \
+-luclinative /home/EDA/CDS/SYNOPSYS/vcs/U-2023.03-SP2-9/linux64/lib/vcs_tls.o   -Wl,-whole-archive \
+-lvcsucli    -Wl,-no-whole-archive        _vcs_pli_stub_.o   /home/EDA/CDS/SYNOPSYS/vcs/U-2023.03-SP2-9/linux64/lib/vcs_save_restore_new.o \
+/home/EDA/CDS/SYNOPSYS/verdi/U-2023.03-SP2-9/share/PLI/VCS/LINUX64/pli.a -ldl  -lc \
+-lm -lpthread -ldl 
+../simv up to date
+make[1]: Leaving directory '/home/enrique.namigtle/Proyectos_UVM/Proj_vlsi_ipn/work/sim/csrc' \
+
+CPU time: .147 seconds to compile + .127 seconds to elab + .107 seconds to link
+Verdi KDB elaboration done and the database successfully generated: 0 error(s), 0 warning(s)

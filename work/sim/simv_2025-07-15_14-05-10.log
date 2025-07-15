@@ -1,0 +1,85 @@
+Command: /home/enrique.namigtle/Proyectos_UVM/Proj_vlsi_ipn/work/sim/./simv +ntb_random_seed=1 -l simv_2025-07-15_14-05-10.log
+Chronologic VCS simulator copyright 1991-2023
+Contains Synopsys proprietary information.
+Compiler version U-2023.03-SP2-9_Full64; Runtime version U-2023.03-SP2-9_Full64;  Jul 15 14:05 2025
+*Verdi* Loading libsscore_vcs202303.so
+FSDB Dumper for VCS, Release Verdi_U-2023.03-SP2-9, Linux x86_64/64bit, 09/09/2024
+(C) 1996 - 2024 by Synopsys, Inc.
+*Verdi* : Create FSDB file 'novas.fsdb'
+*Verdi* : Begin traversing the scopes, layer (0).
+*Verdi* : End of traversing.
+[0.0ns] clk=0 rst=1 enable=0 gray_next=0000 gray_out=0000 gray_anterior=0000 detector=0
+[5.0ns] clk=1 rst=1 enable=0 gray_next=0000 gray_out=0000 gray_anterior=0000 detector=0
+[10.0ns] clk=0 rst=1 enable=0 gray_next=0000 gray_out=0000 gray_anterior=0000 detector=0
+[15.0ns] clk=1 rst=1 enable=0 gray_next=0000 gray_out=0000 gray_anterior=0000 detector=0
+[20.0ns] clk=0 rst=0 enable=1 gray_next=0000 gray_out=0000 gray_anterior=0000 detector=0
+[25.0ns] clk=1 rst=0 enable=1 gray_next=0001 gray_out=0000 gray_anterior=0000 detector=0
+[30.0ns] clk=0 rst=0 enable=1 gray_next=0001 gray_out=0000 gray_anterior=0000 detector=0
+[35.0ns] clk=1 rst=0 enable=1 gray_next=0010 gray_out=0001 gray_anterior=0000 detector=0
+[40.0ns] clk=0 rst=0 enable=1 gray_next=0010 gray_out=0001 gray_anterior=0000 detector=0
+[45.0ns] clk=1 rst=0 enable=1 gray_next=0011 gray_out=0011 gray_anterior=0001 detector=0
+[50.0ns] clk=0 rst=0 enable=1 gray_next=0011 gray_out=0011 gray_anterior=0001 detector=0
+[55.0ns] clk=1 rst=0 enable=1 gray_next=0100 gray_out=0010 gray_anterior=0011 detector=0
+[60.0ns] clk=0 rst=0 enable=1 gray_next=0100 gray_out=0010 gray_anterior=0011 detector=0
+[65.0ns] clk=1 rst=0 enable=1 gray_next=0101 gray_out=0110 gray_anterior=0010 detector=0
+[70.0ns] clk=0 rst=0 enable=1 gray_next=0101 gray_out=0110 gray_anterior=0010 detector=0
+[75.0ns] clk=1 rst=0 enable=1 gray_next=0110 gray_out=0111 gray_anterior=0110 detector=0
+[80.0ns] clk=0 rst=0 enable=1 gray_next=0110 gray_out=0111 gray_anterior=0110 detector=0
+[85.0ns] clk=1 rst=0 enable=1 gray_next=0111 gray_out=0101 gray_anterior=0111 detector=0
+[90.0ns] clk=0 rst=0 enable=1 gray_next=0111 gray_out=0101 gray_anterior=0111 detector=0
+[95.0ns] clk=1 rst=0 enable=1 gray_next=1000 gray_out=0100 gray_anterior=0101 detector=0
+[100.0ns] clk=0 rst=0 enable=1 gray_next=1000 gray_out=0100 gray_anterior=0101 detector=0
+[105.0ns] Detector activado! gray_anterior=4'b0100, gray_out=4'b1100
+[105.0ns] clk=1 rst=0 enable=1 gray_next=1001 gray_out=1100 gray_anterior=0100 detector=1
+[110.0ns] clk=0 rst=0 enable=1 gray_next=1001 gray_out=1100 gray_anterior=0100 detector=1
+[115.0ns] clk=1 rst=0 enable=1 gray_next=1010 gray_out=1101 gray_anterior=1100 detector=0
+[120.0ns] clk=0 rst=0 enable=1 gray_next=1010 gray_out=1101 gray_anterior=1100 detector=0
+[125.0ns] clk=1 rst=0 enable=1 gray_next=1011 gray_out=1111 gray_anterior=1101 detector=0
+[130.0ns] clk=0 rst=0 enable=1 gray_next=1011 gray_out=1111 gray_anterior=1101 detector=0
+[135.0ns] clk=1 rst=0 enable=1 gray_next=1100 gray_out=1110 gray_anterior=1111 detector=0
+[140.0ns] clk=0 rst=0 enable=1 gray_next=1100 gray_out=1110 gray_anterior=1111 detector=0
+[145.0ns] clk=1 rst=0 enable=1 gray_next=1101 gray_out=1010 gray_anterior=1110 detector=0
+[150.0ns] clk=0 rst=0 enable=1 gray_next=1101 gray_out=1010 gray_anterior=1110 detector=0
+[155.0ns] clk=1 rst=0 enable=1 gray_next=1110 gray_out=1011 gray_anterior=1010 detector=0
+[160.0ns] clk=0 rst=0 enable=1 gray_next=1110 gray_out=1011 gray_anterior=1010 detector=0
+[165.0ns] clk=1 rst=0 enable=1 gray_next=1111 gray_out=1001 gray_anterior=1011 detector=0
+[170.0ns] clk=0 rst=0 enable=1 gray_next=1111 gray_out=1001 gray_anterior=1011 detector=0
+[175.0ns] clk=1 rst=0 enable=1 gray_next=0000 gray_out=1000 gray_anterior=1001 detector=0
+[180.0ns] clk=0 rst=0 enable=1 gray_next=0000 gray_out=1000 gray_anterior=1001 detector=0
+[185.0ns] clk=1 rst=0 enable=1 gray_next=0001 gray_out=0000 gray_anterior=1000 detector=0
+[190.0ns] clk=0 rst=0 enable=1 gray_next=0001 gray_out=0000 gray_anterior=1000 detector=0
+[195.0ns] clk=1 rst=0 enable=1 gray_next=0010 gray_out=0001 gray_anterior=0000 detector=0
+[200.0ns] clk=0 rst=0 enable=1 gray_next=0010 gray_out=0001 gray_anterior=0000 detector=0
+[205.0ns] clk=1 rst=0 enable=0 gray_next=0010 gray_out=0001 gray_anterior=0000 detector=0
+[210.0ns] clk=0 rst=0 enable=0 gray_next=0010 gray_out=0001 gray_anterior=0000 detector=0
+[215.0ns] clk=1 rst=0 enable=0 gray_next=0010 gray_out=0001 gray_anterior=0000 detector=0
+[220.0ns] clk=0 rst=0 enable=0 gray_next=0010 gray_out=0001 gray_anterior=0000 detector=0
+[225.0ns] clk=1 rst=0 enable=0 gray_next=0010 gray_out=0001 gray_anterior=0000 detector=0
+[230.0ns] clk=0 rst=0 enable=0 gray_next=0010 gray_out=0001 gray_anterior=0000 detector=0
+[235.0ns] clk=1 rst=0 enable=1 gray_next=0011 gray_out=0011 gray_anterior=0001 detector=0
+[240.0ns] clk=0 rst=0 enable=1 gray_next=0011 gray_out=0011 gray_anterior=0001 detector=0
+[245.0ns] clk=1 rst=0 enable=1 gray_next=0100 gray_out=0010 gray_anterior=0011 detector=0
+[250.0ns] clk=0 rst=0 enable=1 gray_next=0100 gray_out=0010 gray_anterior=0011 detector=0
+[255.0ns] clk=1 rst=0 enable=1 gray_next=0101 gray_out=0110 gray_anterior=0010 detector=0
+[260.0ns] clk=0 rst=0 enable=1 gray_next=0101 gray_out=0110 gray_anterior=0010 detector=0
+[265.0ns] clk=1 rst=0 enable=1 gray_next=0110 gray_out=0111 gray_anterior=0110 detector=0
+[270.0ns] clk=0 rst=0 enable=1 gray_next=0110 gray_out=0111 gray_anterior=0110 detector=0
+[275.0ns] clk=1 rst=0 enable=1 gray_next=0111 gray_out=0101 gray_anterior=0111 detector=0
+[280.0ns] clk=0 rst=0 enable=1 gray_next=0111 gray_out=0101 gray_anterior=0111 detector=0
+[285.0ns] clk=1 rst=0 enable=1 gray_next=1000 gray_out=0100 gray_anterior=0101 detector=0
+[290.0ns] clk=0 rst=0 enable=1 gray_next=1000 gray_out=0100 gray_anterior=0101 detector=0
+[295.0ns] clk=1 rst=0 enable=1 gray_next=1001 gray_out=1100 gray_anterior=0100 detector=1
+[300.0ns] clk=0 rst=0 enable=1 gray_next=1001 gray_out=1100 gray_anterior=0100 detector=1
+[305.0ns] clk=1 rst=0 enable=1 gray_next=1010 gray_out=1101 gray_anterior=1100 detector=0
+[310.0ns] clk=0 rst=0 enable=1 gray_next=1010 gray_out=1101 gray_anterior=1100 detector=0
+[315.0ns] clk=1 rst=0 enable=1 gray_next=1011 gray_out=1111 gray_anterior=1101 detector=0
+[320.0ns] clk=0 rst=0 enable=1 gray_next=1011 gray_out=1111 gray_anterior=1101 detector=0
+[325.0ns] clk=1 rst=0 enable=1 gray_next=1100 gray_out=1110 gray_anterior=1111 detector=0
+[330.0ns] clk=0 rst=0 enable=1 gray_next=1100 gray_out=1110 gray_anterior=1111 detector=0
+[335.0ns] Fin de la simulación
+$finish called from file "/home/enrique.namigtle/Proyectos_UVM/Proj_vlsi_ipn/hw/tb/tb_contador_gray_detector.v", line 56.
+$finish at simulation time    335.0ns
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 335000 ps
+CPU Time:      0.120 seconds;       Data structure size:   0.0Mb
+Tue Jul 15 14:05:11 2025

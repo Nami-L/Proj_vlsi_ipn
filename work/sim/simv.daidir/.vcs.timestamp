@@ -1,0 +1,155 @@
+0
+39
++itf+/home/EDA/CDS/SYNOPSYS/vcs/U-2023.03-SP2-9/linux64/lib/vcsdp_lite.tab
++vcsd1
++vpi
+-Mamsrun=
+-Masflags=
+-Mcc=gcc
+-Mcfl= -pipe -fPIC -O -I/home/EDA/CDS/SYNOPSYS/vcs/U-2023.03-SP2-9/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -rdynamic
+-Mobjects= /home/EDA/CDS/SYNOPSYS/vcs/U-2023.03-SP2-9/linux64/lib/libvirsim.so /home/EDA/CDS/SYNOPSYS/vcs/U-2023.03-SP2-9/linux64/lib/liberrorinf.so /home/EDA/CDS/SYNOPSYS/vcs/U-2023.03-SP2-9/linux64/lib/libsnpsmalloc.so /home/EDA/CDS/SYNOPSYS/vcs/U-2023.03-SP2-9/linux64/lib/libvfs.so
+-Mout=simv
+-Msaverestoreobj=/home/EDA/CDS/SYNOPSYS/vcs/U-2023.03-SP2-9/linux64/lib/vcs_save_restore_new.o
+-Msyslibs=/home/EDA/CDS/SYNOPSYS/verdi/U-2023.03-SP2-9/share/PLI/VCS/LINUX64/pli.a -ldl
+-Mvcsaceobjs=
+-Mxcflags= -pipe -fPIC -I/home/EDA/CDS/SYNOPSYS/vcs/U-2023.03-SP2-9/include
+-Mxllcflags=
+-P
+-Xufe=2steps
+-debug_access+all
+-fsdb
+-full64
+-gen_obj
+-kdb
+-l
+-lca
+-picarchive
+-sverilog
+-timescale=1ns/10ps
+-top
+/home/EDA/CDS/SYNOPSYS/vcs/U-2023.03-SP2-9/linux64/bin/vcs1
+comp.log
+tb_contador_gray_detector
+/home/EDA/CDS/SYNOPSYS/verdi/U-2023.03-SP2-9/share/PLI/VCS/LINUX64/verdi.tab
+/home/enrique.namigtle/Proyectos_UVM/Proj_vlsi_ipn/hw/tb/tb_contador_gray_detector.v
+/home/enrique.namigtle/Proyectos_UVM/Proj_vlsi_ipn/hw/rtl/contador_gray_detector.v
+99
+which_declare=declare -f
+XDG_SESSION_ID=55
+XDG_RUNTIME_DIR=/run/user/1008
+XDG_DATA_DIRS=/home/enrique.namigtle/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+VSCODE_IPC_HOOK_CLI=/run/user/1008/vscode-ipc-3aa76467-ec17-465f-8d2e-926d13bb8862.sock
+VSCODE_GIT_IPC_HANDLE=/run/user/1008/vscode-git-67af64fb37.sock
+VSCODE_GIT_ASKPASS_NODE=/home/enrique.namigtle/.vscode-server/cli/servers/Stable-cb0c47c0cfaad0757385834bd89d410c78a856c0/server/node
+VSCODE_GIT_ASKPASS_MAIN=/home/enrique.namigtle/.vscode-server/cli/servers/Stable-cb0c47c0cfaad0757385834bd89d410c78a856c0/server/extensions/git/dist/askpass-main.js
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+VMR_MODE_FLAG=64
+VERDI_SUPP_LIB=/home/EDA/CDS/SYNOPSYS/verdi_supp/U-2023.03-SP2-9/lib
+VERDI_SUPP_HOME=/home/EDA/CDS/SYNOPSYS/verdi_supp/U-2023.03-SP2-9
+VERDI_LIB=/home/EDA/CDS/SYNOPSYS/verdi/U-2023.03-SP2-9/lib
+VERDI_HOME=/home/EDA/CDS/SYNOPSYS/verdi/U-2023.03-SP2-9
+VENDOR=unknown
+VCS_PYTHON3=/home/EDA/CDS/SYNOPSYS/vcs/U-2023.03-SP2-9/linux64/bin/Python-3.6.1/bin/python3
+VCS_PATHMAP_PRELOAD_DONE=1
+VCS_MX_HOME_INTERNAL=1
+VCS_MODE_FLAG=64
+VCS_LOG_FILE=comp.log
+VCS_LIB=/home/EDA/CDS/SYNOPSYS/vcs/U-2023.03-SP2-9/lib
+VCS_LCAMSG_PRINT_OFF=1
+VCS_HOME=/home/EDA/CDS/SYNOPSYS/vcs/U-2023.03-SP2-9
+VCS_EXEC_DONE=1
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH=linux64
+UNAME=/bin/uname
+TSMC180_TECHFILE=/home/EDA/PDK/synopsys/TSMC180-1p6m_4X1U40KA-2fF/techfile
+TSMC180_HOME=/home/EDA/PDK/synopsys/TSMC180-1p6m_4X1U40KA-2fF
+TOOL_HOME=/home/EDA/CDS/SYNOPSYS/vcs/U-2023.03-SP2-9/linux64
+TERM_PROGRAM_VERSION=1.102.0
+TERM_PROGRAM=vscode
+SYN_LIB=/home/EDA/CDS/SYNOPSYS/syn/U-2022.12-SP7-3/lib
+SYN_HOME=/home/EDA/CDS/SYNOPSYS/syn/U-2022.12-SP7-3
+SYNOPSYS_HOME=/home/EDA/CDS/SYNOPSYS
+SSL_CERT_FILE=/etc/pki/ca-trust/extracted/pem/tls-ca-bundle.pem
+SSL_CERT_DIR=/etc/pki/tls/certs
+SSH_CONNECTION=192.168.113.94 53944 192.168.73.133 22
+SSH_CLIENT=192.168.113.94 53944 22
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+SNPS_VERDI_INTERNAL_LP_XML_NEW_FLOW=1
+SNPS_VCS_PYTHON3=/home/EDA/CDS/SYNOPSYS/vcs/U-2023.03-SP2-9/linux64/bin/Python-3.6.1/bin/python3
+SNPS_VCS_CLANG_PATH=/home/EDA/CDS/SYNOPSYS/vcs/U-2023.03-SP2-9/linux64/clang
+SNPS_INTERNAL_VCS_LINUX_OS=linux
+SELINUX_USE_CURRENT_RANGE=
+SELINUX_ROLE_REQUESTED=
+SELINUX_LEVEL_REQUESTED=
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+SCL_LIB=/home/EDA/CDS/SYNOPSYS/scl/2024.06/lib
+SCL_HOME=/home/EDA/CDS/SYNOPSYS/scl/2024.06
+PYTHONHOME=/home/EDA/PDK/synopsys/TSMC180-1p6m_4X1U40KA-2fF/PycellStudio/lnx_64/plat_linux_gcc411_64/3rd
+PRIME_LIB=/home/EDA/CDS/SYNOPSYS/prime/U-2022.12-SP5-5/lib
+PRIME_HOME=/home/EDA/CDS/SYNOPSYS/prime/U-2022.12-SP5-5
+PRIMEWAVE_LIB=/home/EDA/CDS/SYNOPSYS/primewave/U-2023.03-3-T-20230515/lib
+PRIMEWAVE_HOME=/home/EDA/CDS/SYNOPSYS/primewave/U-2023.03-3-T-20230515
+PDK_TECHFILE=/home/EDA/PDK/synopsys/TSMC180-1p6m_4X1U40KA-2fF/techfile
+PDK_MODELS=/home/EDA/PDK/synopsys/TSMC180-1p6m_4X1U40KA-2fF/models
+PDK_LIB=/home/EDA/PDK/synopsys/TSMC180-1p6m_4X1U40KA-2fF/lib
+PDK_DIR=/home/EDA/PDK/synopsys/TSMC180-1p6m_4X1U40KA-2fF
+OVA_UUM=0
+OSTYPE=linux
+OA_PLUGIN_PATH=/home/EDA/PDK/synopsys/TSMC180-1p6m_4X1U40KA-2fF/PycellStudio/lnx_64/plat_linux_gcc411_64/3rd/oa/data/plugins
+OA_COMPILER=gcc411
+MFLAGS=
+MAKE_TERMOUT=/dev/pts/5
+MAKE_TERMERR=/dev/pts/5
+MAKELEVEL=1
+MAKEFLAGS=
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LC_LIB=/home/EDA/CDS/SYNOPSYS/lc/U-2022.12-SP6/lib
+LC_HOME=/home/EDA/CDS/SYNOPSYS/lc/U-2022.12-SP6
+LC_CTYPE=UTF-8
+LC_ALL=C
+KDEDIRS=/usr
+INSTALLER_LIB=/home/EDA/CDS/SYNOPSYS/installer/lib
+INSTALLER_HOME=/home/EDA/CDS/SYNOPSYS/installer
+ICC2_LIB=/home/EDA/CDS/SYNOPSYS/icc2/U-2022.12-SP6/lib
+ICC2_HOME=/home/EDA/CDS/SYNOPSYS/icc2/U-2022.12-SP6
+HSPICE_LIB=/home/EDA/CDS/SYNOPSYS/hspice/U-2023.03-SP2-2/hspice/lib
+HSPICE_HOME=/home/EDA/CDS/SYNOPSYS/hspice/U-2023.03-SP2-2/hspice
+HOSTTYPE=x86_64-linux
+HISTCONTROL=ignoredups
+GROUP=enrique.namigtle
+GIT_ASKPASS=/home/enrique.namigtle/.vscode-server/cli/servers/Stable-cb0c47c0cfaad0757385834bd89d410c78a856c0/server/extensions/git/dist/askpass.sh
+GDK_BACKEND=x11
+FM_LIB=/home/EDA/CDS/SYNOPSYS/fm/U-2022.12-SP6/lib
+FM_HOME=/home/EDA/CDS/SYNOPSYS/fm/U-2022.12-SP6
+DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-EVlP5C5Oho,guid=e5583a75e58dfa87cb4271d668767368
+CUSTOMCOMPILER_LIB=/home/EDA/CDS/SYNOPSYS/customcompiler/U-2023.03-6/lib
+CUSTOMCOMPILER_HOME=/home/EDA/CDS/SYNOPSYS/customcompiler/U-2023.03-6
+COLORTERM=truecolor
+CNI_ROOT=/home/EDA/PDK/synopsys/TSMC180-1p6m_4X1U40KA-2fF/PycellStudio/lnx_64
+CNI_PLAT_ROOT=/home/EDA/PDK/synopsys/TSMC180-1p6m_4X1U40KA-2fF/PycellStudio/lnx_64/plat_linux_gcc411_64
+CNI_LOG_DEFAULT=/dev/null
+CNI_DISPLAY_DIR=/home/EDA/PDK/synopsys/TSMC180-1p6m_4X1U40KA-2fF/PycellStudio/lnx_64/tech/cni130/santanaDisplay
+CDS_Netlisting_Mode=Analog
+BASH_FUNC_which%%=() {  ( alias;_ eval ${which_declare} ) | /usr/bin/which --tty-only --read-alias --read-functions --show-tilde --show-dot $@_}
+0
+0
+4
+1752610812 /home/enrique.namigtle/Proyectos_UVM/Proj_vlsi_ipn/hw/rtl/contador_gray_detector.v
+1752610815 /home/enrique.namigtle/Proyectos_UVM/Proj_vlsi_ipn/hw/tb/tb_contador_gray_detector.v
+1725875821 /home/EDA/CDS/SYNOPSYS/verdi/U-2023.03-SP2-9/share/PLI/VCS/LINUX64/verdi.tab
+1727233580 /home/EDA/CDS/SYNOPSYS/vcs/U-2023.03-SP2-9/linux64/lib/vcsdp_lite.tab
+4
+1727236074 /home/EDA/CDS/SYNOPSYS/vcs/U-2023.03-SP2-9/linux64/lib/libvirsim.so
+1727234639 /home/EDA/CDS/SYNOPSYS/vcs/U-2023.03-SP2-9/linux64/lib/liberrorinf.so
+1727234543 /home/EDA/CDS/SYNOPSYS/vcs/U-2023.03-SP2-9/linux64/lib/libsnpsmalloc.so
+1727234633 /home/EDA/CDS/SYNOPSYS/vcs/U-2023.03-SP2-9/linux64/lib/libvfs.so
+1752610817 simv.daidir
+-1 partitionlib

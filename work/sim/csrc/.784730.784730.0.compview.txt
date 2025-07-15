@@ -1,0 +1,10 @@
+{"vcs1":{"timestamp_begin":1752609856.483614491, "rt":0.13, "ut":0.06, "st":0.06}}
+{"vcselab":{"timestamp_begin":1752609856.643387759, "rt":0.14, "ut":0.09, "st":0.02}}
+{"link":{"timestamp_begin":1752609856.800482628, "rt":0.07, "ut":0.05, "st":0.02}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1752609856.308451991}
+{"VCS_COMP_START_TIME": 1752609856.308451991}
+{"VCS_COMP_END_TIME": 1752609856.919997964}
+{"VCS_USER_OPTIONS": "-full64 -sverilog -lca -debug_access+all -kdb -timescale=1ns/10ps /home/enrique.namigtle/Proyectos_UVM/Proj_vlsi_ipn/hw/tb/tb_contador_gray_detector.v /home/enrique.namigtle/Proyectos_UVM/Proj_vlsi_ipn/hw/rtl/contador_gray_detector.v -l comp.log -top tb_contador_gray_detector -j8"}
+{"vcs1": {"peak_mem": 456976}}
+{"vcs1": {"peak_mem": 537952}}
+{"vcselab": {"peak_mem": 238084}}
