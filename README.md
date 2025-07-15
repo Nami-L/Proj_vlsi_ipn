@@ -1,8 +1,6 @@
 # Proj_vlsi_ipn--Convocatoria Silicluster 2025
 Diseño de un RTL para fabricación
-
-## El objetivo de este proyecto, es que sea elegido para ser fabricado.
-Envía tu módulo a: silicluster@gmail.com Fecha límite: Domingo 3 de agosto de 2025
+Fecha límite: Domingo 3 de agosto de 2025
 ### Caracteristicas
 Especificaciones del módulo:
 
