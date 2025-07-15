@@ -1,4 +1,4 @@
-# Proj_vlsi_ipn--Convocatoria Silicluster 2025
+# Convocatoria Silicluster 2025
 
 - **Autor**: Luis Enrique Namigtle Jiménez  
 - **Correo**: enrique.namigtle@inaoe.edu.mx  
